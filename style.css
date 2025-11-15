@@ -1,0 +1,88 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+ul{
+    border: solid 1px;
+    width: 320px;
+    position: fixed;
+    height: 100%;
+    background-color: aquamarine;
+    padding-top: 20px;
+    list-style: none;
+}
+#text1{
+    color: black;
+    font-size: 40px;
+    font-weight: bold;
+}
+#text2{
+    color: black;
+    font-size: 40px;
+    font-weight: bold;
+}
+ul li{
+    border: solid 1px;
+    height: 50px;
+    width: 150px;
+    margin-left: 80px;
+    background-color: azure;
+    text-align: center;
+    line-height: 50px;
+    border-radius: 15px;
+    margin-bottom: 20px;
+}
+ul li a{
+    color: black;
+    font-size: 20px;
+    font-weight: bold;
+    text-decoration: none;
+}
+ul li:hover{
+    background-color: wheat;
+}
+#Home{
+    border: solid 1px;
+    height: 630px;
+    background-color: aliceblue;
+    padding-left: 325px;
+}
+#text3{
+    color: cadetblue;
+    font-size: 55px;
+}
+#text4{
+    color: cadetblue;
+    font-size: 55px;
+}
+#text5{
+    font-size: 20px;
+    font-weight: bold;
+}
+#bt1{
+    height: 30px;
+    width: 100px;
+    background-color: gray;
+    border-radius: 15px;
+    color: white;
+    font-size: 15px;
+    font-weight: bold;
+    margin-top: 5px;
+}
+#About{
+    border: solid 1px;
+    height: 630px;
+    background-color: aliceblue;
+    padding-left: 325px;
+}
+#Aboutme{
+    color: cadetblue;
+    font-size: 55px;
+}
+#bt2{
+    height: 30px;
+    width: 100px;
+    background-color: gray;
+    border-radius: 15px;
+    margin-bottom: 10px;
+}
